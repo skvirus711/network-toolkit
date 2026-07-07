@@ -36,7 +36,7 @@ sudo apt install iproute2 iputils-ping network-manager
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/network-toolkit.git
+git clone https://github.com/skvirus711/network-toolkit.git
 cd network-toolkit
 ```
 
